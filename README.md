@@ -5,7 +5,7 @@ Packages Used:
 
 
 ### TODO:
-i. Create template for course views
+i. Manage couse modules and their contents
 
 
 
