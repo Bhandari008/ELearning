@@ -1,11 +1,13 @@
 # elearning
 
 Packages Used:
-*Pillow*
+*Pillow*, *django-braces*
 
 
-### TODO:
-i. Managing modules and their contents
+### Feature:
+
+i. Instructors can create, edit, delete and update courses and modules.
+
 
 
 
