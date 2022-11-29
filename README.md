@@ -5,7 +5,7 @@ Packages Used:
 
 
 ### TODO:
-i. Manage couse modules and their contents
+i. Managing modules and their contents
 
 
 
